@@ -298,8 +298,8 @@ Accepts contact-form submissions and stores them in MongoDB.
 ## 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+git clone https://github.com/rupesh568/PortFolio-Website
+cd PortFolio-Website
 ```
 
 ## 2. Install dependencies
